@@ -1,0 +1,23 @@
+# .gitignore
+node_modules
+dist
+build
+.env
+.env.local
+.env.*.local
+*.log
+npm-debug.log*
+.DS_Store
+*.pem
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.vercel
+.netlify
+.turbo
+.coverage
+.vitest
+playwright-report
+test-results
